@@ -1,19 +1,37 @@
-# Project Repository
+## Project Description
 
-This repository will be used for team projects.
+"What's for Dinner" is an open-source web application that suggests recipes based on the ingredients and cooking utensils you have on hand. With our platform, you can search for recipes using specific ingredients, add or remove ingredients to see different recipe suggestions, and save your favorite recipes for future use. Our app also includes advanced search filters such as dietary restrictions, meal type, and cooking time/difficulty to help find the perfect recipe for users at all levels.
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+### Product Vision Statement
 
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
+"What's for Dinner" is an app that helps users save time, reduce food waste, and enjoy the cooking process by providing optimal recipe suggestions based on the ingredients available.
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
+## Meet Our Team
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
+Abhi - [link to github](https://github.com/abhi-vachani)
 
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
+Nancy - [link to github](https://github.com/nancysun0415)
 
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
+Alex - [link to github](https://github.com/ak8000)
 
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
+Chenyi - [link to github](https://github.com/Ginette9)
 
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
+Hillary - [link to github](https://github.com/hillarydavis1)
+
+## History of the Project
+
+We are a team of college students, and often after grocery shopping we have a few leftover ingredients that we don't know how to use or use effectively. Therefore, having an application that can help with giving us an optimal recipe based on the available ingredients can be very helpful in saving time, producing less waste when cooking, and enjopying the process.
+
+Please refer to the [CONTRIBUTING.md](https://github.com/agiledev-students-spring-2023/final-project-what-s-for-dinner/blob/master/CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
+## Instructions to Building and Testing the Project
+
+Instructions for building and testing the project will be provided once the project reaches that stage.
+
+## Additional Resources
+[README.md](https://github.com/agiledev-students-spring-2023/final-project-what-s-for-dinner/blob/master/README.md) - an overview of this project<br>
+[LICENSE.md](https://github.com/agiledev-students-spring-2023/final-project-what-s-for-dinner/blob/master/LICENSE.md) - the license under which this project is released<br>
+[UX-DESIGN.md](https://github.com/agiledev-students-spring-2023/final-project-what-s-for-dinner/blob/master/UX-DESIGN.md) - the wireframe diagrams and prototype for this project
+
+### Important Note:
+This project is still in development, and we appreciate your patience and feedback as we work to improve the platform. If you have any questions or suggestions, please don't hesitate to reach out to us via the project's GitHub page.
